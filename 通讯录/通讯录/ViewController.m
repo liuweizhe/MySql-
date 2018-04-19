@@ -31,7 +31,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+    NSLog(@"hahaha");
     datapath = [self copySqliteToDocument];
     
     nameArr =[NSMutableArray new];
